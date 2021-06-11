@@ -30,7 +30,7 @@ nav
     display: flex;
     justify-content: flex-end;
     list-style-type: none;
-    margin-top: 20px;
+    margin-top: 40px;
     margin-left: -30px;
 }
 nav li 
@@ -261,7 +261,7 @@ p
 {
     display: flex;
     justify-content: space-between;
-    max-height: 630px;
+    max-height: 620px;
 }
 .resultscontainer 
 {
